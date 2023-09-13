@@ -18,5 +18,4 @@ This project focuses on sentiment analysis for the video game launch of "Hogwart
 ## 🔍 Further Details
 For a comprehensive breakdown of our methodologies and findings, please refer to the included PDF: "Hogwarts Legacy Post-launch Sentiment Analysis".
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
